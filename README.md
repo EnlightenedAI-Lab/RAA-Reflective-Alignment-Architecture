@@ -2,13 +2,6 @@
 Scientific framework for reflective stability, moral coherence, and frontier AI safety. Includes the RAA specification, diagrams, datasets, and the Reflective Duality Layer (RDL).
 ### 📄 Download the Full Paper (PDF)
 [Reflective Alignment Architecture — Full Specification (PDF)](./Reflective_Alignment_Architecture_RDL_v1.1.pdf)
-![Constructive Resonance](./Constructive Resonance.jpg)
-![RDL Phase Diagram](./RDL.jpg)
-![Reflective Stability](./Reflective Stability.jpg)
-![Preference Collapse](./Preference Collapse.jpg)
-![Coherence Resonance](./Coherence Resonance.jpg)
-![SR Manifold](./SR Manifold.jpg)
-
 
 
 
