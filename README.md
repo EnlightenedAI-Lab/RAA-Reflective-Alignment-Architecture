@@ -3,7 +3,13 @@ Scientific framework for reflective stability, moral coherence, and frontier AI 
 ### 📄 Download the Full Paper (PDF)
 [Reflective Alignment Architecture — Full Specification (PDF)](./Reflective_Alignment_Architecture_RDL_v1.1.pdf)
 
----
+![RDL Phase Diagram](./RDL.jpg)
+![Reflective Stability](./Reflective_Stability.jpg)
+![Constructive Resonance](./Constructive_Resonance.jpg)
+![Coherence Resonance](./Coherence_Resonance.jpg)
+![SR Manifold](./SR_Manifold.jpg)
+![Preference Collapse](./Preference_Collapse.jpg)
+
 
 
 A scientific framework for reflective stability, moral coherence, and frontier AI safety.  
