@@ -1,6 +1,10 @@
 # RAA-Reflective-Alignment-Architecture
 Scientific framework for reflective stability, moral coherence, and frontier AI safety. Includes the RAA specification, diagrams, datasets, and the Reflective Duality Layer (RDL).
-# RAA – Reflective Alignment Architecture
+### 📄 Download the Full Paper (PDF)
+[Reflective Alignment Architecture — Full Specification (PDF)](./Reflective_Alignment_Architecture_RDL_v1.1.pdf)
+
+---
+
 
 A scientific framework for reflective stability, moral coherence, and frontier AI safety.  
 This repository contains the full RAA specification, diagrams, datasets, and the Reflective Duality Layer (RDL).
